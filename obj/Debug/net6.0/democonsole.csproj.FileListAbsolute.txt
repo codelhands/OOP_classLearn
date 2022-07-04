@@ -1,0 +1,15 @@
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/bin/Debug/net6.0/democonsole
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/bin/Debug/net6.0/democonsole.deps.json
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/bin/Debug/net6.0/democonsole.runtimeconfig.json
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/bin/Debug/net6.0/democonsole.dll
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/bin/Debug/net6.0/democonsole.pdb
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/obj/Debug/net6.0/democonsole.csproj.AssemblyReference.cache
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/obj/Debug/net6.0/democonsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/obj/Debug/net6.0/democonsole.AssemblyInfoInputs.cache
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/obj/Debug/net6.0/democonsole.AssemblyInfo.cs
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/obj/Debug/net6.0/democonsole.csproj.CoreCompileInputs.cache
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/obj/Debug/net6.0/democonsole.dll
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/obj/Debug/net6.0/refint/democonsole.dll
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/obj/Debug/net6.0/democonsole.pdb
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/obj/Debug/net6.0/democonsole.genruntimeconfig.cache
+/Users/elselif/Documents/UnGitHub/dotnet/charp/democonsole/obj/Debug/net6.0/ref/democonsole.dll
